@@ -1,7 +1,7 @@
 function downloadFile(fileNumber) {
   // Replace with the actual file URLs
   const fileUrls = {
-    1: 'MeKareem4/kareems-projects/TempCleaner.zip',
+    1: 'files/TempCleaner.zip',
     2: 'path/to/file2.ext',
     3: 'path/to/file3.ext',
     4: 'path/to/file4.ext',
